@@ -1,0 +1,9 @@
+C:\Users\METARVRSE\Documents\Visual Studio 2017\Projects\Launcher\Launcher\bin\Release\Launcher.exe.config
+C:\Users\METARVRSE\Documents\Visual Studio 2017\Projects\Launcher\Launcher\bin\Release\Launcher.exe
+C:\Users\METARVRSE\Documents\Visual Studio 2017\Projects\Launcher\Launcher\bin\Release\Launcher.pdb
+C:\Users\METARVRSE\Documents\Visual Studio 2017\Projects\Launcher\Launcher\obj\Release\Launcher.Form1.resources
+C:\Users\METARVRSE\Documents\Visual Studio 2017\Projects\Launcher\Launcher\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\METARVRSE\Documents\Visual Studio 2017\Projects\Launcher\Launcher\obj\Release\Launcher.csproj.GenerateResource.Cache
+C:\Users\METARVRSE\Documents\Visual Studio 2017\Projects\Launcher\Launcher\obj\Release\Launcher.exe
+C:\Users\METARVRSE\Documents\Visual Studio 2017\Projects\Launcher\Launcher\obj\Release\Launcher.pdb
+C:\Users\METARVRSE\Documents\Visual Studio 2017\Projects\Launcher\Launcher\obj\Release\Launcher.csprojResolveAssemblyReference.cache
